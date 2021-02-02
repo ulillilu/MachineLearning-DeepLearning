@@ -1,0 +1,44 @@
+1575084187004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/6yymk4rx78xbxs6dhwg3w7m00000gn/T/rust_mozprofile.drecQZ4k75QH"
+1575084187445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575084187445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575084187445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575084187445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575084189070	Marionette	INFO	Listening on port 50037
+1575084189136	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://login.coupang.com"
+console.warn: nsLoginManager: "searchLogins: `formActionOrigin` or `httpRealm` is recommended"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1575084251943	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/6yymk4rx78xbxs6dhwg3w7m00000gn/T/rust_mozprofile.108zuGNS6NQc"
+1575084252362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575084252362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575084252362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575084252362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575084253882	Marionette	INFO	Listening on port 50113
+1575084253984	Marionette	WARN	TLS certificate errors will be ignored for this session
+1575084276945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/6yymk4rx78xbxs6dhwg3w7m00000gn/T/rust_mozprofile.fIGZhuUlau12"
+1575084277367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1575084277367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1575084277367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1575084277367	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1575084278889	Marionette	INFO	Listening on port 50177
+1575084278991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: common/validation/_emailValidator
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: common/validation/_regularExpression
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: common/validation/_passwordValidator
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: common/weblog/pincodeSchema
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: app/pincode/modal/controller
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://login.coupang.com/resources/20191128043407/components/require.js/2.1.11/require.min.js, line 8: Error: Script error for: common/pincode/constants
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript warning: https://asset3.coupangcdn.com/cdnjs/moment.js/2.10.2/moment.min.js, line 6: unreachable code after return statement
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1575084461842	Marionette	INFO	Stopped listening on port 50177
